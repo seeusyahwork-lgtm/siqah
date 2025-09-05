@@ -23,3 +23,7 @@ client@0.0.0 I:\Workspace\siqah\client
 │ │ └── tailwindcss@4.1.13 deduped
 │ └── tailwindcss@4.1.13 deduped
 └── tailwindcss@4.1.13
+
+$ npm list daisyui
+client@0.0.0 I:\Workspace\siqah\client
+└── daisyui@5.1.7
