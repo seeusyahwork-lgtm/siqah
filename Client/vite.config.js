@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/siqah/Client/',  // Pastikan ini ada
+  base: '/siqah/', // bukan /Client/, cukup /siqah/
   plugins: [react(), tailwindcss()],
 })
