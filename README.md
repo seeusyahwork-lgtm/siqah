@@ -27,3 +27,7 @@ client@0.0.0 I:\Workspace\siqah\client
 $ npm list daisyui
 client@0.0.0 I:\Workspace\siqah\client
 └── daisyui@5.1.7
+
+$ npm list react-router-dom
+client@0.0.0 I:\Workspace\siqah\client
+└── react-router-dom@7.8.2
