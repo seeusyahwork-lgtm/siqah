@@ -4,5 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  plugins: [react(), tailwindcss(),],
+  base: '/siqah/',   // ✨ ini tambahan penting untuk GitHub Pages
+  plugins: [react(), tailwindcss()],
 })
